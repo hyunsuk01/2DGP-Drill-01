@@ -3,6 +3,6 @@ hello, world
 thankyou
 i love you
 
-hello day2
+hello-day2
 
 gg
