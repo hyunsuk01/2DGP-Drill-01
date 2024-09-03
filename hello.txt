@@ -2,5 +2,7 @@ hello, world
 이현석
 thankyou
 i love you
-gg
 
+hello day2
+
+gg
